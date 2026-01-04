@@ -23,4 +23,12 @@ Route::get('/clear', function () {
 
 
 
+
+
+It might sshow this:
+symlink(): No such file or directory
+
+Then add public folder in the root directory and runn again.
+
+
 That's all.
